@@ -15,7 +15,7 @@ sources: git across 16 production repos · Jira 2023–2026 — counted, not est
 My portfolio is an MCP server. Add it to Claude and ask my career anything:
 
 ```bash
-claude mcp add walid-slim -- npx -y github:waliid-sliim/portfolio
+claude mcp add walid-slim -- npx -y github:slim00walid-prog/portfolio
 ```
 
 ```
@@ -32,6 +32,12 @@ claude mcp add walid-slim -- npx -y github:waliid-sliim/portfolio
 | **The Product** | AI hotel concierge — 4 LLM providers, 18+ tools, two-tier memory, <5ms warm | Next.js 15 · React 19 |
 | **The Frontier** | MCP Apps — real React UI inside Claude & ChatGPT, live PMS bookings | ui:// · Apaleo |
 
-**Site:** [waliid-sliim.github.io/portfolio](https://waliid-sliim.github.io/portfolio/) ·
-**CV:** [pdf](https://waliid-sliim.github.io/portfolio/Walid_Slim_CV_2026.pdf) ·
+### Open source — production patterns, extracted
+
+- [**nestjs-mcp-kit**](https://github.com/slim00walid-prog/nestjs-mcp-kit) — decorator-based MCP providers for NestJS: tools as code, generated scopes, per-caller tool visibility
+- [**mcp-apps-demo**](https://github.com/slim00walid-prog/mcp-apps-demo) — a tool result that renders as interactive UI inside the agent (`ui://` + `structuredContent`/`widgetData` split)
+- [**mcp-oauth-example**](https://github.com/slim00walid-prog/mcp-oauth-example) — OAuth 2.1 for MCP in one readable file: RFC 7591, PKCE, RS256/JWKS, RFC 9728 discovery
+
+**Site:** [slim00walid-prog.github.io/portfolio](https://slim00walid-prog.github.io/portfolio/) ·
+**CV:** [pdf](https://slim00walid-prog.github.io/portfolio/Walid_Slim_CV_2026.pdf) ·
 **Contact:** slim00walid@gmail.com · [LinkedIn](https://www.linkedin.com/in/slim-walid)
