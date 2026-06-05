@@ -1,0 +1,37 @@
+# Hotels talk to AI through infrastructure I built.
+
+I'm **Walid Slim** — AI Product Engineer at [Quicktext / Velma AI](https://www.quicktext.im).
+I design and run the **Model Context Protocol layer** of a hospitality AI platform:
+the gateway, the auth, the interactive apps — connecting hundreds of hotels to
+**Claude, ChatGPT, and whatever comes next**.
+
+```
+57 MCP tools · 7 providers · 1,400+ commits · 100+ booking-engine integrations · 97% issue resolution
+sources: git across 16 production repos · Jira 2023–2026 — counted, not estimated
+```
+
+### Don't read my portfolio. Interview it.
+
+My portfolio is an MCP server. Add it to Claude and ask my career anything:
+
+```bash
+claude mcp add walid-slim -- npx -y github:waliid-sliim/portfolio
+```
+
+```
+› what did walid build, and what's the evidence?
+› get_case_study gateway
+› get_evidence "oauth"
+```
+
+### The three systems that define me
+
+| | | |
+|---|---|---|
+| **The Moat** | Company-wide MCP gateway — 57 tools, OAuth 2.1, per-tool scopes, audit, k8s | NestJS · 25K LOC |
+| **The Product** | AI hotel concierge — 4 LLM providers, 18+ tools, two-tier memory, <5ms warm | Next.js 15 · React 19 |
+| **The Frontier** | MCP Apps — real React UI inside Claude & ChatGPT, live PMS bookings | ui:// · Apaleo |
+
+**Site:** [waliid-sliim.github.io/portfolio](https://waliid-sliim.github.io/portfolio/) ·
+**CV:** [pdf](https://waliid-sliim.github.io/portfolio/Walid_Slim_CV_2026.pdf) ·
+**Contact:** slim00walid@gmail.com · [LinkedIn](https://www.linkedin.com/in/slim-walid)
