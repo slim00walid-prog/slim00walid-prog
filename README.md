@@ -64,23 +64,19 @@ A single thread runs through everything I build: **move trust from the prompt to
 
 ### Toolbox
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-34d399?style=flat-square)
+<div align="center">
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,nestjs,nextjs,react,tailwind,mongodb,redis,postgres,elasticsearch,docker,kubernetes,azure,git,github&perline=8)](https://skillicons.dev)
 
+**AI & protocols** &nbsp;
+![Model Context Protocol](https://img.shields.io/badge/Model_Context_Protocol-34d399?style=flat-square&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![OAuth2.1](https://img.shields.io/badge/OAuth_2.1_·_PKCE-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![OAuth 2.1](https://img.shields.io/badge/OAuth_2.1_·_PKCE-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-observability-0A0A0A?style=flat-square)
 
-<div align="center"><sub>Building the agent layer for hospitality — and the safety rails the whole industry needs. Open to roles & collaboration.</sub></div>
+</div>
+
+---
+
+<div align="center"><sub>Building the agent layer for hospitality — and the safety rails the whole industry needs. Open to roles &amp; collaboration.</sub></div>
