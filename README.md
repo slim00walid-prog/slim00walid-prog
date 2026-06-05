@@ -1,6 +1,6 @@
 <div align="center">
 
-![Walid Slim — AI Product Engineer · MCP Infrastructure](./banner.png)
+![Walid Slim — AI Product Engineer · MCP Infrastructure](https://raw.githubusercontent.com/slim00walid-prog/slim00walid-prog/main/banner.png)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-interview_it-34d399?style=for-the-badge)](https://slim00walid-prog.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-slim00walid@gmail.com-0c8f63?style=for-the-badge)](mailto:slim00walid@gmail.com)
