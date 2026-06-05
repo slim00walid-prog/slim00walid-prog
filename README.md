@@ -1,17 +1,12 @@
 <div align="center">
 
-# Walid Slim
-
-### Hotels talk to AI through infrastructure I built.
-
-**AI Product Engineer** · I design and run the Model Context Protocol layer of [Velma AI](https://www.quicktext.im) — the gateway, the auth, the interactive apps — connecting hundreds of hotels to Claude, ChatGPT, and whatever comes next.
+![Walid Slim — AI Product Engineer · MCP Infrastructure](./banner.png)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-interview_it-34d399?style=for-the-badge)](https://slim00walid-prog.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-slim00walid@gmail.com-0c8f63?style=for-the-badge)](mailto:slim00walid@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-slim--walid-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/slim-walid)
 
-`57 MCP tools` · `7 providers` · `1,400+ commits` · `100+ booking-engine integrations` · `97% issue resolution`
-<sub>counted from git across 16 production repos · Jira 2023–2026 — not estimated</sub>
+<sub>every number above is counted from git across 16 production repos · Jira 2023–2026 — not estimated</sub>
 
 </div>
 
