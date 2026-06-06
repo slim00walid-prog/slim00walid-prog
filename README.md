@@ -12,7 +12,7 @@
 
 ---
 
-### Don't read my portfolio. Interview it.
+## Don't read my portfolio. Interview it.
 
 My portfolio is itself an MCP server. Add it to Claude and ask my career anything:
 
