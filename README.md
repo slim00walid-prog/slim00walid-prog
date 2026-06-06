@@ -76,4 +76,4 @@ A single thread runs through everything I build: **move trust from the prompt to
 
 <div align="center"><sub>Building the agent layer for hospitality — and the safety rails the whole industry needs. Open to roles &amp; collaboration.</sub></div>
 
-<!-- profile overview cache nudge -->
+<!-- profile readme · v2 -->
